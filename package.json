@@ -1,0 +1,23 @@
+{
+  "name": "x-mart-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.8.0",
+    "ioredis": "^5.4.1",
+    "mongoose": "^8.3.4",
+    "pg": "^8.11.5",
+    "redis": "^4.6.13"
+  }
+}
